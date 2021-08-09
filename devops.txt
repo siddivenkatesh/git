@@ -1,0 +1,6 @@
+https://github.com/intelliqittrainings  ---  git hub url
+
+<tomcat-user>
+        <user username="siddi"password="siddi"roles="manager-script"/>
+</tomcat-user>
+
